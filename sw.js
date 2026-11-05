@@ -1,8 +1,8 @@
 'use strict';
 const PREFIX='story-reader-kuiro-episode-01-';
-const CACHE=PREFIX+'9c3329466bab';
+const CACHE=PREFIX+'496ddb2db522';
 const ROOT=new URL('./',self.location).href;
-const CORE=['./','./style.css?v=9c3329466bab','./app.js?v=9c3329466bab','./pwa.js?v=9c3329466bab','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
+const CORE=['./','./style.css?v=496ddb2db522','./app.js?v=496ddb2db522','./pwa.js?v=496ddb2db522','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{

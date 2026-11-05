@@ -1,6 +1,153 @@
 {
-  "art_style": "Modern Korean Webtoon Slice-of-Life Style",
-  "models": [],
-  "state_timeline": [],
-  "reference_images": []
+  "version": "1.0",
+  "art_style": {
+    "name": "한국 도시판타지 스릴러 웹툰",
+    "rendering": "성인 비례, 절제된 잉크선, 디지털 셀 명암, 낮은 채도의 청회색·차콜·탁한 호박빛, 인물의 미세한 표정 중심",
+    "avoid": [
+      "아동형 인체",
+      "과장된 마법진",
+      "괴물의 추가",
+      "대사 말풍선",
+      "생성 이미지 안의 읽을 수 없는 문자"
+    ],
+    "reference_policy": "인물 시트의 얼굴과 의상은 고정, 배경 시트는 공간·색·동선의 기준. 원문이 시트보다 우선."
+  },
+  "models": [
+    {
+      "id": "jaeha",
+      "name": "윤재하",
+      "presence": "현장 주인공",
+      "source_facts": [
+        "현장 수리기사",
+        "귀로문 수련자, 사부 마동식",
+        "6년째 왼손 감각 저하",
+        "지난 반년 완료 현장 열한 곳",
+        "반보 사용",
+        "두 사람 반보 뒤 가벼운 코피"
+      ],
+      "dramatic_function": "처리자로 시작해 책임을 감수하는 신고자로 변한다. 탈출할 기회에 박미숙 곁을 택한다.",
+      "adaptation_lock": {
+        "apparent_age": 32,
+        "height_cm": 178,
+        "face": "좁고 각진 타원 얼굴, 창백한 중성 피부, 피로한 짙은 갈색 눈, 곧은 눈썹과 코, 무수염·무안경",
+        "hair": "검정 짧은 옆가르마, 약간 흐트러진 앞머리",
+        "clothes": "차콜 작업 재킷, 바랜 슬레이트 블루 티셔츠, 짙은 회색 작업 바지, 검정 작업화",
+        "props": "검정 스마트폰, 오른쪽 허리의 작은 올리브 공구 파우치",
+        "hand": "왼손은 외형상 정상. 떨림·둔한 동작으로 표현하며 절단·의수·화상 흉터를 추가하지 않는다."
+      },
+      "reference": "assets/references/characters-primary.webp"
+    },
+    {
+      "id": "misuk",
+      "name": "박미숙",
+      "presence": "수선방 발견 이후 현장 동행",
+      "source_facts": [
+        "62세",
+        "짧게 자른 흰머리",
+        "2층 수선집을 철수한 뒤 석 달째 비밀방에서 작업",
+        "현금 월 30만 원을 관리인에게 지불",
+        "고객 옷 42벌, 결혼식 양복 3벌",
+        "정확히 세 커버를 가져감",
+        "재단 가위를 든 손은 떨리지 않음",
+        "폐쇄 뒤 자기 휴대폰 손전등 사용"
+      ],
+      "dramatic_function": "무인으로 지워진 사람. 노동과 고객에 대한 책임을 포기하지 않으며 수동적 구조 대상이 아니다.",
+      "adaptation_lock": {
+        "height_cm": 158,
+        "face": "각지고 둥근 얼굴, 실제 62세의 주름, 작고 예리한 갈색 눈, 단단한 턱과 얇은 입술",
+        "hair": "짧은 흰회색 크롭",
+        "clothes": "바랜 자주색 카디건, 오트밀 블라우스, 짙은 갈색 바지, 검정 단화, 먼지 낀 토프색 작업 앞치마",
+        "props": "오래된 강철 재단 가위, 무채색 스마트폰, 구출 과정에서 투명 비닐 양복 커버 정확히 3개"
+      },
+      "reference": "assets/references/characters-primary.webp"
+    },
+    {
+      "id": "kang",
+      "name": "강 실장",
+      "presence": "전화 목소리만, 현장 등장 금지",
+      "source_facts": [
+        "배차 담당",
+        "문틀·전경·설비 차단 사진 세 장 요구",
+        "자정 전 정산을 압박",
+        "율산의 무인 보고서 신뢰"
+      ],
+      "dramatic_function": "원청의 기록을 현장 기사에게 강제하는 중간 배차 권력",
+      "adaptation_lock": {
+        "status": "외형은 원문 미정. 차후 등장 시만 쓰는 시트용 제작 가정",
+        "appearance": "50대 남성, 넓은 얼굴, 짧고 뒤로 밀린 검은 머리, 회색 셔츠와 네이비 조끼"
+      },
+      "reference": "assets/references/characters-secondary.webp"
+    },
+    {
+      "id": "ma",
+      "name": "마동식",
+      "presence": "사부의 가르침을 회상할 뿐 현재 현장 없음",
+      "source_facts": [
+        "귀로문의 사부",
+        "칼보다 먼저 뒤돌아보는 법을 가르침",
+        "문을 열기 전에 나갈 문을 세라는 가르침"
+      ],
+      "dramatic_function": "열기보다 돌아오는 책임을 중시하는 윤리적 준거",
+      "adaptation_lock": {
+        "status": "외형은 원문 미정. 회상 시트용 제작 가정",
+        "appearance": "60대 남성, 다부진 체격, 짧은 소금후추 머리, 풍화된 넓은 얼굴, 어두운 올리브 작업 재킷과 갈색 이너"
+      },
+      "reference": "assets/references/characters-secondary.webp"
+    },
+    {
+      "id": "manager",
+      "name": "다온상가 관리인",
+      "presence": "박미숙의 말 속 인물, 현재 등장 없음",
+      "source_facts": [
+        "박미숙의 작업·거주를 알고 있음",
+        "현금 임대료 수령"
+      ],
+      "adaptation_lock": {
+        "status": "성별·나이·외형을 원문이 정하지 않음. 얼굴 없는 중립 실루엣만 사용, 서사 이미지에 삽입하지 않는다."
+      },
+      "reference": "assets/references/characters-secondary.webp"
+    },
+    {
+      "id": "groups",
+      "name": "상인·손님·조사관·구조대·과거 무인들",
+      "presence": "언급 집단, 개별 현장 인물 아님",
+      "source_facts": [
+        "상인 대부분 철수",
+        "손님들의 옷이 남음",
+        "조사관은 작업 기록을 확인함",
+        "구조대 도착은 41분 뒤 예상, 1화 내 도착하지 않음",
+        "무인들은 반보를 도망치는 걸음으로 비웃음"
+      ],
+      "adaptation_lock": {
+        "status": "얼굴·제복·구조 장면을 만들어 넣지 않는다. 시트의 군집 아이콘은 제작 문서에만 사용한다."
+      }
+    }
+  ],
+  "state_timeline": [
+    {
+      "range": "sc001–sc063",
+      "jaeha": "동일 의상, 비로 약간 축축함에서 건조한 내부로 이동. 코피 없음",
+      "misuk": "sc046부터 등장, sc052에서 가위를 테이블에 내려놓음; sc062에서 세 양복 커버 확보"
+    },
+    {
+      "range": "sc064–sc067",
+      "jaeha": "박미숙과 함께 반보. sc066 착지 뒤 작은 코피가 시작되고 sc067에서 손등으로 닦음",
+      "misuk": "세 커버를 품고 동행. 가위는 수선방에 남음"
+    },
+    {
+      "range": "sc068–sc072",
+      "jaeha": "작은 닦은 코피 흔적·땀·먼지, 왼손 감각 악화, 무기나 새 도구 없음",
+      "misuk": "sc071 커버를 떨어뜨렸다 주움. 문 바깥으로 나가지 않음"
+    },
+    {
+      "range": "sc073–sc081",
+      "jaeha": "정산 완료가 아니라 긴급신고 버튼을 누름. 구출되지 않은 상태",
+      "misuk": "세 양복 커버를 모아 두고 자신의 폰 손전등을 켬. 기존 얼굴·옷 유지"
+    }
+  ],
+  "references_reviewed": [
+    "characters-primary",
+    "characters-secondary"
+  ],
+  "source_vs_adaptation": "나이(박미숙 62세 제외), 키, 의상 색과 얼굴은 캐릭터 일관성을 위한 제작 선택이며 원문 사실로 주장하지 않는다."
 }

@@ -1,1 +1,1541 @@
-[]
+[
+  {
+    "id": "sc001",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0002",
+    "source_paragraph_ids": [
+      "p0002"
+    ],
+    "description": "밤비에 젖은 다온상가",
+    "alt": "밤비에 젖은 다온상가 — 귀로 1화 삽화",
+    "prompt_description": "Exterior establishing view of an aging seven-storey Korean commercial block in light night rain, no eighth floor, mostly dark shuttered windows, narrow rear service alley, no characters.",
+    "location_id": "exterior",
+    "character_ids": [],
+    "batch_id": "batch-01",
+    "tile": 1,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc002",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0002",
+    "source_paragraph_ids": [
+      "p0002"
+    ],
+    "description": "7층까지인 버튼",
+    "alt": "7층까지인 버튼 — 귀로 1화 삽화",
+    "prompt_description": "Close view of old elevator button panel ending at the seventh floor, inactive elevator; no person, no invented eighth button.",
+    "location_id": "stairs",
+    "character_ids": [],
+    "batch_id": "batch-01",
+    "tile": 2,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc003",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0003",
+    "source_paragraph_ids": [
+      "p0003"
+    ],
+    "description": "8층으로 향하는 지시",
+    "alt": "8층으로 향하는 지시 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha at rear door studies his plain black phone work order, perplexed; screen abstract and unreadable, no text.",
+    "location_id": "exterior",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-01",
+    "tile": 3,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc004",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0004",
+    "source_paragraph_ids": [
+      "p0004"
+    ],
+    "description": "후한 폐쇄 확인 단가",
+    "alt": "후한 폐쇄 확인 단가 — 귀로 1화 삽화",
+    "prompt_description": "Over-shoulder close shot of Jaeha reading a work order on black smartphone; thumb hesitates over amber work-card interface, unreadable UI.",
+    "location_id": "exterior",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-01",
+    "tile": 4,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc005",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0005",
+    "source_paragraph_ids": [
+      "p0005"
+    ],
+    "description": "22시 56분의 뒷문",
+    "alt": "22시 56분의 뒷문 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha stands beneath a stained concrete rear-door canopy in light rain, inspecting the unusually profitable job, tired skeptical eyes.",
+    "location_id": "exterior",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-01",
+    "tile": 5,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc006",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0006",
+    "source_paragraph_ids": [
+      "p0006"
+    ],
+    "description": "배차 담당자의 전화",
+    "alt": "배차 담당자의 전화 — 귀로 1화 삽화",
+    "prompt_description": "Black smartphone vibrates in Jaeha's hand; incoming call as abstract circles, rainy building entrance behind, no readable text.",
+    "location_id": "exterior",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-01",
+    "tile": 6,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc007",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0009",
+    "source_paragraph_ids": [
+      "p0009"
+    ],
+    "description": "사진 세 장이라는 지시",
+    "alt": "사진 세 장이라는 지시 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha listens to his phone at his right ear beside the rear entrance, fingers count the required inspection photos, empty alley.",
+    "location_id": "exterior",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-01",
+    "tile": 7,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc008",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0012",
+    "source_paragraph_ids": [
+      "p0012"
+    ],
+    "description": "먼저 끊기는 통화",
+    "alt": "먼저 끊기는 통화 — 귀로 1화 삽화",
+    "prompt_description": "Close portrait of Jaeha lowering a phone after the call ends, guarded resignation under cold canopy lighting.",
+    "location_id": "exterior",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-01",
+    "tile": 8,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc009",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0013",
+    "source_paragraph_ids": [
+      "p0013"
+    ],
+    "description": "반 박자 늦는 왼손",
+    "alt": "반 박자 늦는 왼손 — 귀로 1화 삽화",
+    "prompt_description": "Detailed close view of Jaeha flexing his bare LEFT hand, stiff fingertips and restrained discomfort, intact normal anatomy, rain bokeh behind.",
+    "location_id": "exterior",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-01",
+    "tile": 9,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc010",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0015",
+    "source_paragraph_ids": [
+      "p0015"
+    ],
+    "description": "멈춘 승강기",
+    "alt": "멈춘 승강기 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha faces an inactive closed elevator in the empty lobby then turns toward emergency stairs, concrete institutional interior.",
+    "location_id": "stairs",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-02",
+    "tile": 1,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc011",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0015",
+    "source_paragraph_ids": [
+      "p0015"
+    ],
+    "description": "비상계단을 오르다",
+    "alt": "비상계단을 오르다 — 귀로 1화 삽화",
+    "prompt_description": "Low camera on black work boots climbing old gray concrete stairs, green painted metal handrails and cool utility bulbs.",
+    "location_id": "stairs",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-02",
+    "tile": 2,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc012",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0015",
+    "source_paragraph_ids": [
+      "p0015"
+    ],
+    "description": "철수한 휴대폰 수리점",
+    "alt": "철수한 휴대폰 수리점 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha passes a shuttered phone repair shop landing, empty display counter behind dusty glass, no people.",
+    "location_id": "stairs",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-02",
+    "tile": 3,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc013",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0015",
+    "source_paragraph_ids": [
+      "p0015"
+    ],
+    "description": "빈 한복집",
+    "alt": "빈 한복집 — 귀로 1화 삽화",
+    "prompt_description": "Through dusty third-floor shop glass, abandoned hanbok-store fittings and empty rails, Jaeha's reflection passes; no mannequins resembling people.",
+    "location_id": "stairs",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-02",
+    "tile": 4,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc014",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0015",
+    "source_paragraph_ids": [
+      "p0015"
+    ],
+    "description": "임대 문의가 이어진 층",
+    "alt": "임대 문의가 이어진 층 — 귀로 1화 삽화",
+    "prompt_description": "Deep shot up empty commercial stair landings with vacant glass storefronts and paper notices whose print is unreadable.",
+    "location_id": "stairs",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-02",
+    "tile": 5,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc015",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0016",
+    "source_paragraph_ids": [
+      "p0016"
+    ],
+    "description": "7층 계단참의 문",
+    "alt": "7층 계단참의 문 — 귀로 1화 삽화",
+    "prompt_description": "Seventh-floor landing establishing: faded red fire-hose cabinet immediately beside a gray fire door, wired-glass corridor door across landing; Jaeha arriving.",
+    "location_id": "landing",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-02",
+    "tile": 6,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc016",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0018",
+    "source_paragraph_ids": [
+      "p0018"
+    ],
+    "description": "노란 관리 스티커",
+    "alt": "노란 관리 스티커 — 귀로 1화 삽화",
+    "prompt_description": "Close up of worn yellow rectangular warning sticker on the gray fire-door frame, abstract unreadable print, red fire cabinet partially visible.",
+    "location_id": "landing",
+    "character_ids": [],
+    "batch_id": "batch-02",
+    "tile": 7,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc017",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0020",
+    "source_paragraph_ids": [
+      "p0020"
+    ],
+    "description": "미지근한 문틀",
+    "alt": "미지근한 문틀 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha presses his bare palm against the steel frame and swallows against pressure in his ears, face wary, no glow yet.",
+    "location_id": "landing",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-02",
+    "tile": 8,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc018",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0023",
+    "source_paragraph_ids": [
+      "p0023"
+    ],
+    "description": "나갈 문을 세어 둔다",
+    "alt": "나갈 문을 세어 둔다 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha looks BACK over his shoulder at the same red fire cabinet and wired-glass corridor door before opening the gray fire door; only one route back, no mentor physically present.",
+    "location_id": "landing",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-02",
+    "tile": 9,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc019",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0025",
+    "source_paragraph_ids": [
+      "p0025"
+    ],
+    "description": "문 너머의 복도",
+    "alt": "문 너머의 복도 — 귀로 1화 삽화",
+    "prompt_description": "From landing side behind Jaeha, the open gray fire door reveals an impossibly long narrow windowless concrete corridor, orange duct on floor, hanging work floodlights.",
+    "location_id": "corridor",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-03",
+    "tile": 1,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc020",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0026",
+    "source_paragraph_ids": [
+      "p0026"
+    ],
+    "description": "건물보다 긴 거리",
+    "alt": "건물보다 긴 거리 — 귀로 1화 삽화",
+    "prompt_description": "Wide one-point perspective into windowless corridor three times the building width, steel partition storage bays both sides, orange ribbed duct snakes along floor, cold suspended rectangular lamps.",
+    "location_id": "corridor",
+    "character_ids": [],
+    "batch_id": "batch-03",
+    "tile": 2,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc021",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0026",
+    "source_paragraph_ids": [
+      "p0026"
+    ],
+    "description": "철사에 매달린 투광등",
+    "alt": "철사에 매달린 투광등 — 귀로 1화 삽화",
+    "prompt_description": "Upward close view of rectangular portable work floodlights suspended on thin wires below rough concrete ceiling, no fluorescent tubes.",
+    "location_id": "corridor",
+    "character_ids": [],
+    "batch_id": "batch-03",
+    "tile": 3,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc022",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0026",
+    "source_paragraph_ids": [
+      "p0026"
+    ],
+    "description": "주황색 환기 덕트",
+    "alt": "주황색 환기 덕트 — 귀로 1화 삽화",
+    "prompt_description": "Ground-level view following the ribbed orange ventilation duct along dusty concrete between steel partition bays.",
+    "location_id": "corridor",
+    "character_ids": [],
+    "batch_id": "batch-03",
+    "tile": 4,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc023",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0028",
+    "source_paragraph_ids": [
+      "p0028"
+    ],
+    "description": "먼지 속의 밥 냄새",
+    "alt": "먼지 속의 밥 냄새 — 귀로 1화 삽화",
+    "prompt_description": "Close portrait Jaeha pausing and subtly inhaling, brow tightens as he notices food smell in an otherwise dry industrial space, no visible food yet.",
+    "location_id": "corridor",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-03",
+    "tile": 5,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc024",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0029",
+    "source_paragraph_ids": [
+      "p0029"
+    ],
+    "description": "문틀과 전경의 사진",
+    "alt": "문틀과 전경의 사진 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha raises black smartphone to photograph the doorway then corridor; this single panel captures him facing down corridor with phone camera, no UI text.",
+    "location_id": "corridor",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-03",
+    "tile": 6,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc025",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0030",
+    "source_paragraph_ids": [
+      "p0030"
+    ],
+    "description": "빠져나간 짐의 흔적",
+    "alt": "빠져나간 짐의 흔적 — 귀로 1화 삽화",
+    "prompt_description": "An empty steel storage bay: scuff tracks across concrete, torn cardboard and strips of old packing tape, no new people or objects.",
+    "location_id": "corridor",
+    "character_ids": [],
+    "batch_id": "batch-03",
+    "tile": 7,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc026",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0032",
+    "source_paragraph_ids": [
+      "p0032"
+    ],
+    "description": "세 번째 칸의 젖은 걸레",
+    "alt": "세 번째 칸의 젖은 걸레 — 귀로 1화 삽화",
+    "prompt_description": "In third steel storage bay, Jaeha kneels beside a visibly wet gray floor rag and navy insulated lunch bag, no other person.",
+    "location_id": "bay3",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-03",
+    "tile": 8,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc027",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0033",
+    "source_paragraph_ids": [
+      "p0033"
+    ],
+    "description": "반쯤 남은 도시락",
+    "alt": "반쯤 남은 도시락 — 귀로 1화 삽화",
+    "prompt_description": "Close still life: open stainless lunch container inside navy insulated bag, half-eaten rice, one metal spoon neatly resting on its lid, Jaeha touches warm container rim.",
+    "location_id": "bay3",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-03",
+    "tile": 9,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc028",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0035",
+    "source_paragraph_ids": [
+      "p0035"
+    ],
+    "description": "사진 두 장의 정산 앱",
+    "alt": "사진 두 장의 정산 앱 — 귀로 1화 삽화",
+    "prompt_description": "Over shoulder Jaeha views amber-gray settlement app with two photo thumbnails and an empty third slot, UI unreadable, lunch bag in foreground.",
+    "location_id": "bay3",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-04",
+    "tile": 1,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc029",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0037",
+    "source_paragraph_ids": [
+      "p0037"
+    ],
+    "description": "완료 앞에서 멈춘 손",
+    "alt": "완료 앞에서 멈춘 손 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha's right thumb hovers near a completion control on black smartphone but DOES NOT press it; warm half-eaten lunch beyond phone.",
+    "location_id": "bay3",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-04",
+    "tile": 2,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc030",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0038",
+    "source_paragraph_ids": [
+      "p0038"
+    ],
+    "description": "남아 있는 온기",
+    "alt": "남아 있는 온기 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha looks down at the opened stainless lunch box, phone lowered, ethical unease in his tired face.",
+    "location_id": "bay3",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-04",
+    "tile": 3,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc031",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0039",
+    "source_paragraph_ids": [
+      "p0039"
+    ],
+    "description": "비었음으로 남을 기록",
+    "alt": "비었음으로 남을 기록 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha studies both the orange air duct and gray exit far away, aware shutdown would trap a person; CURRENT corridor still lit and duct still running, do not depict actual premature closure.",
+    "location_id": "corridor",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-04",
+    "tile": 4,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc032",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0040",
+    "source_paragraph_ids": [
+      "p0040"
+    ],
+    "description": "다시 건 전화",
+    "alt": "다시 건 전화 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha places second call, right hand holding phone by ear, seated low at steel partition edge with warm lunch box nearby.",
+    "location_id": "bay3",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-04",
+    "tile": 5,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc033",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0043",
+    "source_paragraph_ids": [
+      "p0043"
+    ],
+    "description": "밥이 따뜻해요",
+    "alt": "밥이 따뜻해요 — 귀로 1화 삽화",
+    "prompt_description": "Close portrait Jaeha speaks earnestly into phone while his free bare left hand rests near stainless container; no other person in corridor.",
+    "location_id": "bay3",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-04",
+    "tile": 6,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc034",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0045",
+    "source_paragraph_ids": [
+      "p0045"
+    ],
+    "description": "보고서의 무인",
+    "alt": "보고서의 무인 — 귀로 1화 삽화",
+    "prompt_description": "Phone speaker detail and Jaeha's tightening expression as he hears bureaucratic refusal; caller remains unseen.",
+    "location_id": "bay3",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-04",
+    "tile": 7,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc035",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0046",
+    "source_paragraph_ids": [
+      "p0046"
+    ],
+    "description": "확인하지 않은 열한 곳",
+    "alt": "확인하지 않은 열한 곳 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha's eyes lower in remembered guilt; abstract out-of-focus inspection photo thumbnails on his phone, no invented flashback people or explicit past events.",
+    "location_id": "bay3",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-04",
+    "tile": 8,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc036",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0049",
+    "source_paragraph_ids": [
+      "p0049"
+    ],
+    "description": "한 바퀴만 더",
+    "alt": "한 바퀴만 더 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha pockets/lowers phone and rises, turning to proceed deeper along lit corridor toward dead-end concrete wall, determined.",
+    "location_id": "corridor",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-04",
+    "tile": 9,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc037",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0051",
+    "source_paragraph_ids": [
+      "p0051"
+    ],
+    "description": "도면의 끝",
+    "alt": "도면의 끝 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha stands before the flat concrete wall at the corridor dead end; orange duct at floor turns downward just before wall.",
+    "location_id": "deadend",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-05",
+    "tile": 1,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc038",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0052",
+    "source_paragraph_ids": [
+      "p0052"
+    ],
+    "description": "왼쪽으로 쏠리는 압력",
+    "alt": "왼쪽으로 쏠리는 압력 — 귀로 1화 삽화",
+    "prompt_description": "Close portrait Jaeha steadies his breathing and tilts subtly toward his left ear, reading spatial grain without visible magic symbols.",
+    "location_id": "deadend",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-05",
+    "tile": 2,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc039",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0052",
+    "source_paragraph_ids": [
+      "p0052"
+    ],
+    "description": "바닥으로 사라지는 덕트",
+    "alt": "바닥으로 사라지는 덕트 — 귀로 1화 삽화",
+    "prompt_description": "Close floor-level image orange ribbed ventilation duct curves into a narrow floor seam before blank concrete wall, no conventional doorway.",
+    "location_id": "deadend",
+    "character_ids": [],
+    "batch_id": "batch-05",
+    "tile": 3,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc040",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0054",
+    "source_paragraph_ids": [
+      "p0054"
+    ],
+    "description": "결에 닿은 손",
+    "alt": "결에 닿은 손 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha kneels and lays a bare hand beside orange duct on dusty concrete, examining tiny spatial misalignment.",
+    "location_id": "deadend",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-05",
+    "tile": 4,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc041",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0055",
+    "source_paragraph_ids": [
+      "p0055"
+    ],
+    "description": "반 걸음의 준비",
+    "alt": "반 걸음의 준비 — 귀로 1화 삽화",
+    "prompt_description": "Close lower body Jaeha shifts body weight onto LEFT foot, knees bent and breathing controlled; ordinary work clothes, subtle displaced concrete line.",
+    "location_id": "deadend",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-05",
+    "tile": 5,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc042",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0056",
+    "source_paragraph_ids": [
+      "p0056"
+    ],
+    "description": "한 뼘의 침하",
+    "alt": "한 뼘의 침하 — 귀로 1화 삽화",
+    "prompt_description": "Floor around Jaeha's left boot visually depresses by a handspan then returns, restrained perspective ripple with no portal ring or magical runes.",
+    "location_id": "transition",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-05",
+    "tile": 6,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc043",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0057",
+    "source_paragraph_ids": [
+      "p0057"
+    ],
+    "description": "다른 방에 선 기사",
+    "alt": "다른 방에 선 기사 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha opens his eyes now standing inside low-ceiling hidden tailoring room, astonished, tungsten desk lamp replaces cold corridor light.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-05",
+    "tile": 7,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc044",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0058",
+    "source_paragraph_ids": [
+      "p0058"
+    ],
+    "description": "행거 두 줄과 미싱 한 대",
+    "alt": "행거 두 줄과 미싱 한 대 — 귀로 1화 삽화",
+    "prompt_description": "Wide workshop layout: two clothing racks along opposed walls, plastic-covered suits and school uniforms, one industrial sewing machine in center, one household lamp, no window, no person shown.",
+    "location_id": "workshop",
+    "character_ids": [],
+    "batch_id": "batch-05",
+    "tile": 8,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc045",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0059",
+    "source_paragraph_ids": [
+      "p0059"
+    ],
+    "description": "덜 박은 소매",
+    "alt": "덜 박은 소매 — 귀로 1화 삽화",
+    "prompt_description": "Close industrial sewing machine motionless, partially sewn sleeve pinned under needle, warm lamp pool on worn tabletop, no hands.",
+    "location_id": "workshop",
+    "character_ids": [],
+    "batch_id": "batch-05",
+    "tile": 9,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc046",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0062",
+    "source_paragraph_ids": [
+      "p0062"
+    ],
+    "description": "가위를 든 사람",
+    "alt": "가위를 든 사람 — 귀로 1화 삽화",
+    "prompt_description": "Park Misuk, cropped white-gray hair, plum cardigan and taupe sewing apron, emerges behind clothing rail holding old steel tailor shears steadily; Jaeha foreground surprised.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-06",
+    "tile": 1,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc047",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0063",
+    "source_paragraph_ids": [
+      "p0063"
+    ],
+    "description": "마흔두 벌의 일감",
+    "alt": "마흔두 벌의 일감 — 귀로 1화 삽화",
+    "prompt_description": "Misuk gestures firmly at two rails crowded with covered customer garments; exactly two clothing rails and one central sewing machine, do not attempt exact visible garment count.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-06",
+    "tile": 2,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc048",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0064",
+    "source_paragraph_ids": [
+      "p0064"
+    ],
+    "description": "수리기사입니다",
+    "alt": "수리기사입니다 — 귀로 1화 삽화",
+    "prompt_description": "Eye-level two-shot Jaeha raises empty free hand calmly while explaining he is a repair technician, Misuk holds shears low, neither attacks.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-06",
+    "tile": 3,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc049",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0066",
+    "source_paragraph_ids": [
+      "p0066"
+    ],
+    "description": "휴대폰을 돌려 보이다",
+    "alt": "휴대폰을 돌려 보이다 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha turns black smartphone display toward Misuk, showing abstract unoccupied-status interface with no readable text, warm lamp between them.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-06",
+    "tile": 4,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc050",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0067",
+    "source_paragraph_ids": [
+      "p0067"
+    ],
+    "description": "무인이라는 두 글자",
+    "alt": "무인이라는 두 글자 — 귀로 1화 삽화",
+    "prompt_description": "Close Misuk's lined face studying the phone for a long moment, hurt contained by practical dignity, no tears.",
+    "location_id": "workshop",
+    "character_ids": [
+      "misuk"
+    ],
+    "batch_id": "batch-06",
+    "tile": 5,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc051",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0068",
+    "source_paragraph_ids": [
+      "p0068"
+    ],
+    "description": "석 달째 이곳에",
+    "alt": "석 달째 이곳에 — 귀로 1화 삽화",
+    "prompt_description": "Misuk stands grounded in her small workshop surrounded by garments she has been working on, defiant disbelief; Jaeha listens at frame edge.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-06",
+    "tile": 6,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc052",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0070",
+    "source_paragraph_ids": [
+      "p0070"
+    ],
+    "description": "내려놓는 가위",
+    "alt": "내려놓는 가위 — 귀로 1화 삽화",
+    "prompt_description": "Misuk lowers and sets steel tailor shears on the sewing table, callused hand steady, no phone or weapon in her hand.",
+    "location_id": "workshop",
+    "character_ids": [
+      "misuk"
+    ],
+    "batch_id": "batch-06",
+    "tile": 7,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc053",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0070",
+    "source_paragraph_ids": [
+      "p0070"
+    ],
+    "description": "수선집 주인 박미숙",
+    "alt": "수선집 주인 박미숙 — 귀로 1화 삽화",
+    "prompt_description": "Quiet two-shot Misuk explains her circumstances beside the old machine; Jaeha listens without interrupting, no illustrated landlord or shop customers.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-06",
+    "tile": 8,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc054",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0071",
+    "source_paragraph_ids": [
+      "p0071"
+    ],
+    "description": "일부러 끌어온 환기",
+    "alt": "일부러 끌어온 환기 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha looks to ceiling corner where same orange ventilation duct enters workshop, the two clothing rails and central sewing machine anchor familiar geometry, Misuk behind him.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-06",
+    "tile": 9,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc055",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0073",
+    "source_paragraph_ids": [
+      "p0073"
+    ],
+    "description": "멈춘 덕트",
+    "alt": "멈춘 덕트 — 귀로 1화 삽화",
+    "prompt_description": "Close view workshop orange duct outlet suddenly still, no air movement, household lamp beginning to flicker, warm but uneasy.",
+    "location_id": "workshop",
+    "character_ids": [],
+    "batch_id": "batch-07",
+    "tile": 1,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc056",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0074",
+    "source_paragraph_ids": [
+      "p0074"
+    ],
+    "description": "소리가 사라진 방",
+    "alt": "소리가 사라진 방 — 귀로 1화 삽화",
+    "prompt_description": "Wide same workshop with two racks and central machine, Misuk and Jaeha notice eerie silence under sputtering desk lamp, no supernatural monster.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-07",
+    "tile": 2,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc057",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0076",
+    "source_paragraph_ids": [
+      "p0076"
+    ],
+    "description": "원청 폐쇄 통보",
+    "alt": "원청 폐쇄 통보 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha reads vibrating black phone showing urgent red notification cards, unreadable symbols only, Misuk looks concerned at his expression.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-07",
+    "tile": 3,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc058",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0078",
+    "source_paragraph_ids": [
+      "p0078"
+    ],
+    "description": "그의 것이 아닌 완료 버튼",
+    "alt": "그의 것이 아닌 완료 버튼 — 귀로 1화 삽화",
+    "prompt_description": "Close Jaeha's eyes change as he realizes shutdown was predetermined; cold red phone reflection and amber desk lamp, no actual button press.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-07",
+    "tile": 4,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc059",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0080",
+    "source_paragraph_ids": [
+      "p0080"
+    ],
+    "description": "지금 나가야 한다",
+    "alt": "지금 나가야 한다 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha urgently tells Misuk to leave, gestures toward floor seam for return, she looks toward customer clothes instead.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-07",
+    "tile": 5,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc060",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0083",
+    "source_paragraph_ids": [
+      "p0083"
+    ],
+    "description": "토요일의 결혼식 양복",
+    "alt": "토요일의 결혼식 양복 — 귀로 1화 삽화",
+    "prompt_description": "Misuk points to dark wedding suits on clothing rack, resolute face; background shows other remaining garments, no imagined wedding ceremony.",
+    "location_id": "workshop",
+    "character_ids": [
+      "misuk"
+    ],
+    "batch_id": "batch-07",
+    "tile": 6,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc061",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0084",
+    "source_paragraph_ids": [
+      "p0084"
+    ],
+    "description": "벽 속의 낮은 울림",
+    "alt": "벽 속의 낮은 울림 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha listens toward exposed gray pipe on rough workshop wall, remembers danger, tense face but no literal water flood.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-07",
+    "tile": 7,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc062",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0086",
+    "source_paragraph_ids": [
+      "p0086"
+    ],
+    "description": "세 개의 비닐 커버",
+    "alt": "세 개의 비닐 커버 — 귀로 1화 삽화",
+    "prompt_description": "Misuk grabs EXACTLY THREE separate translucent plastic garment covers from rack at once, each contains a dark suit; shears stay on sewing table.",
+    "location_id": "workshop",
+    "character_ids": [
+      "misuk"
+    ],
+    "batch_id": "batch-07",
+    "tile": 8,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc063",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0087",
+    "source_paragraph_ids": [
+      "p0087"
+    ],
+    "description": "양보할 수 없는 세 벌",
+    "alt": "양보할 수 없는 세 벌 — 귀로 1화 삽화",
+    "prompt_description": "Misuk holds EXACTLY THREE covered suits close to her chest and meets Jaeha's gaze stubbornly, workshop lamp still on, no extra bags or suitcase.",
+    "location_id": "workshop",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-07",
+    "tile": 9,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc064",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0090",
+    "source_paragraph_ids": [
+      "p0090"
+    ],
+    "description": "두 사람의 반보",
+    "alt": "두 사람의 반보 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha grips Misuk's wrist and plants LEFT foot on floor seam, she clutches exactly three suit covers in other arm, workshop two rails behind.",
+    "location_id": "transition",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-08",
+    "tile": 1,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc065",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0092",
+    "source_paragraph_ids": [
+      "p0092"
+    ],
+    "description": "두 호흡의 무게",
+    "alt": "두 호흡의 무게 — 귀로 1화 삽화",
+    "prompt_description": "Close Jaeha straining under shared weight, knee bent, left hand tense, subtle floor distortion around both adults, no glowing portal, no nose blood yet.",
+    "location_id": "transition",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-08",
+    "tile": 2,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc066",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0093",
+    "source_paragraph_ids": [
+      "p0093"
+    ],
+    "description": "복도에 굴러떨어지다",
+    "alt": "복도에 굴러떨어지다 — 귀로 1화 삽화",
+    "prompt_description": "Both adults land on concrete by dead-end wall and orange duct; Misuk hugs three garment covers, Jaeha has tiny trace of nosebleed beginning, no major injury.",
+    "location_id": "deadend",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-08",
+    "tile": 3,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc067",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0094",
+    "source_paragraph_ids": [
+      "p0094"
+    ],
+    "description": "손등에 묻은 붉은 흔적",
+    "alt": "손등에 묻은 붉은 흔적 — 귀로 1화 삽화",
+    "prompt_description": "Close Jaeha wipes a small nosebleed with back of hand, exhausted face, Misuk notices, minimal blood no gore.",
+    "location_id": "corridor",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-08",
+    "tile": 4,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc068",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0098",
+    "source_paragraph_ids": [
+      "p0098"
+    ],
+    "description": "등 뒤부터 꺼지는 불",
+    "alt": "등 뒤부터 꺼지는 불 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha supports Misuk's elbow as they hurry toward exit along orange duct; cold work lamps extinguish successively BEHIND them; she holds three suit covers.",
+    "location_id": "corridor",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-08",
+    "tile": 5,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc069",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0100",
+    "source_paragraph_ids": [
+      "p0100"
+    ],
+    "description": "닫히는 방화문",
+    "alt": "닫히는 방화문 — 귀로 1화 삽화",
+    "prompt_description": "Viewed from corridor interior, gray fire door nearly closed, metal FRAME dull red hot with hairline cracks in concrete; thin gap shows green stairwell emergency light, no flames.",
+    "location_id": "exit",
+    "character_ids": [],
+    "batch_id": "batch-08",
+    "tile": 6,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc070",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0102",
+    "source_paragraph_ids": [
+      "p0102"
+    ],
+    "description": "몸이 된 받침",
+    "alt": "몸이 된 받침 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha wedges shoulder between door and red frame, BACK against door and PALM on frame, knees bent; Misuk still several paces behind with three suits; tiny wiped nosebleed.",
+    "location_id": "exit",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-08",
+    "tile": 7,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc071",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0106",
+    "source_paragraph_ids": [
+      "p0106"
+    ],
+    "description": "세 걸음을 남기고",
+    "alt": "세 걸음을 남기고 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha braces same door in foreground; Misuk stumbles three paces inside corridor and bends to retrieve exactly three fallen translucent suit covers, not yet across threshold.",
+    "location_id": "exit",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-08",
+    "tile": 8,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc072",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0111",
+    "source_paragraph_ids": [
+      "p0111"
+    ],
+    "description": "안쪽으로 물러선 선택",
+    "alt": "안쪽으로 물러선 선택 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha releases door and steps BACK INTO corridor beside Misuk, both remain INSIDE; gray door closes completely, green outside light becomes a thin vanishing sliver, no escape or rescue.",
+    "location_id": "exit",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-08",
+    "tile": 9,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc073",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0113",
+    "source_paragraph_ids": [
+      "p0113"
+    ],
+    "description": "마지막 투광등",
+    "alt": "마지막 투광등 — 귀로 1화 삽화",
+    "prompt_description": "From inside sealed corridor: closed gray fire door, last single rectangular floodlight directly over door goes dark; two adults silhouettes inside, orange duct on floor.",
+    "location_id": "sealed",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-09",
+    "tile": 1,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc074",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0114",
+    "source_paragraph_ids": [
+      "p0114"
+    ],
+    "description": "휴대폰 손전등",
+    "alt": "휴대폰 손전등 — 귀로 1화 삽화",
+    "prompt_description": "Misuk switches on her own small phone flashlight in left hand while holding three gathered suit covers in right arm, white beam reveals lined calm calculating face.",
+    "location_id": "sealed",
+    "character_ids": [
+      "misuk"
+    ],
+    "batch_id": "batch-09",
+    "tile": 2,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc075",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0115",
+    "source_paragraph_ids": [
+      "p0115"
+    ],
+    "description": "나갈 수 있었던 사람",
+    "alt": "나갈 수 있었던 사람 — 귀로 1화 삽화",
+    "prompt_description": "Phone flashlight illuminates both adults beside sealed gray door; Misuk looks at Jaeha with lucid questioning expression, he silently lowers his eyes.",
+    "location_id": "sealed",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-09",
+    "tile": 3,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc076",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0116",
+    "source_paragraph_ids": [
+      "p0116"
+    ],
+    "description": "문틀 곁 한 칸의 신호",
+    "alt": "문틀 곁 한 칸의 신호 — 귀로 1화 삽화",
+    "prompt_description": "Jaeha raises black smartphone near closed doorframe hunting faint signal, abstract tiny signal indicator only, Misuk's phone flashlight provides light.",
+    "location_id": "sealed",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-09",
+    "tile": 4,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc077",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0118",
+    "source_paragraph_ids": [
+      "p0118"
+    ],
+    "description": "긴급신고의 경고",
+    "alt": "긴급신고의 경고 — 귀로 1화 삽화",
+    "prompt_description": "Over shoulder Jaeha opens emergency-report app on black phone, amber warning and red action button shapes with no readable text, thumb hovering.",
+    "location_id": "sealed",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-09",
+    "tile": 5,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc078",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0120"
+    ],
+    "description": "열한 곳을 안 채 누르다",
+    "alt": "열한 곳을 안 채 누르다 — 귀로 1화 삽화",
+    "prompt_description": "Close Jaeha makes deliberate press on emergency-report button with right thumb, reflections in tired eyes, no settlement-completion button.",
+    "location_id": "sealed",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-09",
+    "tile": 6,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc079",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0121",
+    "source_paragraph_ids": [
+      "p0121"
+    ],
+    "description": "구조까지 41분",
+    "alt": "구조까지 41분 — 귀로 1화 삽화",
+    "prompt_description": "Phone screen displays a confirmation check icon and waiting-clock graphic without lettering; sealed corridor and orange duct dark beyond, rescue team NOT present.",
+    "location_id": "sealed",
+    "character_ids": [
+      "jaeha"
+    ],
+    "batch_id": "batch-09",
+    "tile": 7,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc080",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0125",
+    "source_paragraph_ids": [
+      "p0125"
+    ],
+    "description": "말씀은 조금만",
+    "alt": "말씀은 조금만 — 귀로 1화 삽화",
+    "prompt_description": "Two-shot adults sitting/standing low beside closed door, Misuk with three covered suits and phone flashlight asks a dry question; Jaeha almost smiles, no speech bubbles.",
+    "location_id": "sealed",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-09",
+    "tile": 8,
+    "grid": "3x3",
+    "status": "planned"
+  },
+  {
+    "id": "sc081",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0127",
+    "source_paragraph_ids": [
+      "p0127"
+    ],
+    "description": "이제부터 찾을 귀로",
+    "alt": "이제부터 찾을 귀로 — 귀로 1화 삽화",
+    "prompt_description": "Final wide tableau from deep dark corridor: Jaeha and Misuk small in phone light near sealed gray fire door, orange duct silent, three gathered suit covers, no exit revealed, no rescuers, unresolved quiet determination.",
+    "location_id": "sealed",
+    "character_ids": [
+      "jaeha",
+      "misuk"
+    ],
+    "batch_id": "batch-09",
+    "tile": 9,
+    "grid": "3x3",
+    "status": "planned"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "commit_sha": "7e4a9ae673bc1e428abfa92ee2d6823af4148efd",
+    "description": "Add scenes 073 to 081 in story order",
+    "scene_ids": [
+      "sc073",
+      "sc074",
+      "sc075",
+      "sc076",
+      "sc077",
+      "sc078",
+      "sc079",
+      "sc080",
+      "sc081"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "7e4a9ae673bc1e428abfa92ee2d6823af4148efd",
+    "deployment_url": "https://kingspledu.github.io/kuiro-episode-01/",
+    "published_at": "2026-11-05T23:48:39Z",
+    "error": null
+  },
+  {
+    "commit_sha": "f61d0aa1335b092ea8ceecbd3ea4d03e95c91bca",
+    "description": "Add scenes 064 to 072 in story order",
+    "scene_ids": [
+      "sc064",
+      "sc065",
+      "sc066",
+      "sc067",
+      "sc068",
+      "sc069",
+      "sc070",
+      "sc071",
+      "sc072"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "f61d0aa1335b092ea8ceecbd3ea4d03e95c91bca",
+    "deployment_url": "https://kingspledu.github.io/kuiro-episode-01/",
+    "published_at": "2026-11-05T23:45:57Z",
+    "error": null
+  },
+  {
+    "commit_sha": "ff6c9313b3d9f84d7c6d1dc9dc896d3213ea027b",
+    "description": "Add scenes 055 to 063 in story order",
+    "scene_ids": [
+      "sc055",
+      "sc056",
+      "sc057",
+      "sc058",
+      "sc059",
+      "sc060",
+      "sc061",
+      "sc062",
+      "sc063"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "ff6c9313b3d9f84d7c6d1dc9dc896d3213ea027b",
+    "deployment_url": "https://kingspledu.github.io/kuiro-episode-01/",
+    "published_at": "2026-11-05T23:41:07Z",
+    "error": null
+  },
+  {
+    "commit_sha": "719d306ee65f0305f47a946bc67eeb411a104888",
+    "description": "Add scenes 046 to 054 in story order",
+    "scene_ids": [
+      "sc046",
+      "sc047",
+      "sc048",
+      "sc049",
+      "sc050",
+      "sc051",
+      "sc052",
+      "sc053",
+      "sc054"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "719d306ee65f0305f47a946bc67eeb411a104888",
+    "deployment_url": "https://kingspledu.github.io/kuiro-episode-01/",
+    "published_at": "2026-11-05T23:39:33Z",
+    "error": null
+  },
+  {
+    "commit_sha": "2d452fc17e0219c5db2fe6382cd3b137745e788a",
+    "description": "Add scenes 037 to 045 in story order",
+    "scene_ids": [
+      "sc037",
+      "sc038",
+      "sc039",
+      "sc040",
+      "sc041",
+      "sc042",
+      "sc043",
+      "sc044",
+      "sc045"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "2d452fc17e0219c5db2fe6382cd3b137745e788a",
+    "deployment_url": "https://kingspledu.github.io/kuiro-episode-01/",
+    "published_at": "2026-11-05T23:34:56Z",
+    "error": null
+  },
+  {
+    "commit_sha": "a34ccaba6cc0b0ed526b0ca6f5124693c26d9fd3",
+    "description": "Add scenes 028 to 036 in story order",
+    "scene_ids": [
+      "sc028",
+      "sc029",
+      "sc030",
+      "sc031",
+      "sc032",
+      "sc033",
+      "sc034",
+      "sc035",
+      "sc036"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "a34ccaba6cc0b0ed526b0ca6f5124693c26d9fd3",
+    "deployment_url": "https://kingspledu.github.io/kuiro-episode-01/",
+    "published_at": "2026-11-05T23:32:54Z",
+    "error": null
+  },
+  {
+    "commit_sha": "d9f586f73bd8d1a646bffd292138c8ffff2f4279",
+    "description": "Add scenes 019 to 027 in story order",
+    "scene_ids": [
+      "sc019",
+      "sc020",
+      "sc021",
+      "sc022",
+      "sc023",
+      "sc024",
+      "sc025",
+      "sc026",
+      "sc027"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "d9f586f73bd8d1a646bffd292138c8ffff2f4279",
+    "deployment_url": "https://kingspledu.github.io/kuiro-episode-01/",
+    "published_at": "2026-11-05T23:31:12Z",
+    "error": null
+  },
+  {
+    "commit_sha": "1333beead0d268c721933ca1d9f0323603a6d52a",
+    "description": "Add scenes 010 to 018 in story order",
+    "scene_ids": [
+      "sc010",
+      "sc011",
+      "sc012",
+      "sc013",
+      "sc014",
+      "sc015",
+      "sc016",
+      "sc017",
+      "sc018"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "1333beead0d268c721933ca1d9f0323603a6d52a",
+    "deployment_url": "https://kingspledu.github.io/kuiro-episode-01/",
+    "published_at": "2026-11-05T23:30:05Z",
+    "error": null
+  },
+  {
+    "commit_sha": "a55b1116401b622d0f3f8442f9fe024ad6e022c6",
+    "description": "Add scenes 001 to 009 arrival and dispatch call",
+    "scene_ids": [
+      "sc001",
+      "sc002",
+      "sc003",
+      "sc004",
+      "sc005",
+      "sc006",
+      "sc007",
+      "sc008",
+      "sc009"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "a55b1116401b622d0f3f8442f9fe024ad6e022c6",
+    "deployment_url": "https://kingspledu.github.io/kuiro-episode-01/",
+    "published_at": "2026-11-05T23:29:05Z",
+    "error": null
+  },
+  {
+    "commit_sha": "7ffd1399310cc9232c80fa9375e4fd169d1bac60",
+    "description": "Add character sheets, environment bible and 81 detailed scene plans",
+    "scene_ids": [],
+    "deployment_status": "built",
+    "deployment_commit_sha": "7ffd1399310cc9232c80fa9375e4fd169d1bac60",
+    "deployment_url": "https://kingspledu.github.io/kuiro-episode-01/",
+    "published_at": "2026-11-05T23:20:42Z",
+    "error": null
+  },
+  {
+    "commit_sha": "576712d76956e69bf9bc32876613c572260d079f",
+    "description": "Publish complete text of Kuiro episode one",
+    "scene_ids": [],
+    "deployment_status": "built",
+    "deployment_commit_sha": "576712d76956e69bf9bc32876613c572260d079f",
+    "deployment_url": "https://kingspledu.github.io/kuiro-episode-01/",
+    "published_at": "2026-11-05T23:10:00Z",
+    "error": null
+  }
+]

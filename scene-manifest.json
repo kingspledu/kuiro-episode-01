@@ -14,14 +14,16 @@
     "batch_id": "batch-01",
     "tile": 1,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc001.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e1dac4ac962a8baf8b519f8e47cbc64400be797ec81f8b70ad447bf714a5adc8",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a55b1116401b622d0f3f8442f9fe024ad6e022c6",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc001.webp"
   },
   {
     "id": "sc002",
@@ -38,14 +40,16 @@
     "batch_id": "batch-01",
     "tile": 2,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc002.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e1dac4ac962a8baf8b519f8e47cbc64400be797ec81f8b70ad447bf714a5adc8",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a55b1116401b622d0f3f8442f9fe024ad6e022c6",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc002.webp"
   },
   {
     "id": "sc003",
@@ -64,14 +68,16 @@
     "batch_id": "batch-01",
     "tile": 3,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc003.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e1dac4ac962a8baf8b519f8e47cbc64400be797ec81f8b70ad447bf714a5adc8",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a55b1116401b622d0f3f8442f9fe024ad6e022c6",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc003.webp"
   },
   {
     "id": "sc004",
@@ -90,14 +96,16 @@
     "batch_id": "batch-01",
     "tile": 4,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc004.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e1dac4ac962a8baf8b519f8e47cbc64400be797ec81f8b70ad447bf714a5adc8",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a55b1116401b622d0f3f8442f9fe024ad6e022c6",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc004.webp"
   },
   {
     "id": "sc005",
@@ -116,14 +124,16 @@
     "batch_id": "batch-01",
     "tile": 5,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc005.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e1dac4ac962a8baf8b519f8e47cbc64400be797ec81f8b70ad447bf714a5adc8",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a55b1116401b622d0f3f8442f9fe024ad6e022c6",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc005.webp"
   },
   {
     "id": "sc006",
@@ -142,14 +152,16 @@
     "batch_id": "batch-01",
     "tile": 6,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc006.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e1dac4ac962a8baf8b519f8e47cbc64400be797ec81f8b70ad447bf714a5adc8",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a55b1116401b622d0f3f8442f9fe024ad6e022c6",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc006.webp"
   },
   {
     "id": "sc007",
@@ -168,14 +180,16 @@
     "batch_id": "batch-01",
     "tile": 7,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc007.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e1dac4ac962a8baf8b519f8e47cbc64400be797ec81f8b70ad447bf714a5adc8",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a55b1116401b622d0f3f8442f9fe024ad6e022c6",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc007.webp"
   },
   {
     "id": "sc008",
@@ -194,14 +208,16 @@
     "batch_id": "batch-01",
     "tile": 8,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc008.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e1dac4ac962a8baf8b519f8e47cbc64400be797ec81f8b70ad447bf714a5adc8",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a55b1116401b622d0f3f8442f9fe024ad6e022c6",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc008.webp"
   },
   {
     "id": "sc009",
@@ -220,14 +236,16 @@
     "batch_id": "batch-01",
     "tile": 9,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc009.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e1dac4ac962a8baf8b519f8e47cbc64400be797ec81f8b70ad447bf714a5adc8",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a55b1116401b622d0f3f8442f9fe024ad6e022c6",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc009.webp"
   },
   {
     "id": "sc010",
@@ -246,14 +264,16 @@
     "batch_id": "batch-02",
     "tile": 1,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc010.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "8688c4686a6fb0d8e535f60496c3ffd97266ea857b22cf08391ebf20ed599fe4",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "1333beead0d268c721933ca1d9f0323603a6d52a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc010.webp"
   },
   {
     "id": "sc011",
@@ -272,14 +292,16 @@
     "batch_id": "batch-02",
     "tile": 2,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc011.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "8688c4686a6fb0d8e535f60496c3ffd97266ea857b22cf08391ebf20ed599fe4",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "1333beead0d268c721933ca1d9f0323603a6d52a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc011.webp"
   },
   {
     "id": "sc012",
@@ -298,14 +320,16 @@
     "batch_id": "batch-02",
     "tile": 3,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc012.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "8688c4686a6fb0d8e535f60496c3ffd97266ea857b22cf08391ebf20ed599fe4",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "1333beead0d268c721933ca1d9f0323603a6d52a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc012.webp"
   },
   {
     "id": "sc013",
@@ -324,14 +348,16 @@
     "batch_id": "batch-02",
     "tile": 4,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc013.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "8688c4686a6fb0d8e535f60496c3ffd97266ea857b22cf08391ebf20ed599fe4",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "1333beead0d268c721933ca1d9f0323603a6d52a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc013.webp"
   },
   {
     "id": "sc014",
@@ -350,14 +376,16 @@
     "batch_id": "batch-02",
     "tile": 5,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc014.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "8688c4686a6fb0d8e535f60496c3ffd97266ea857b22cf08391ebf20ed599fe4",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "1333beead0d268c721933ca1d9f0323603a6d52a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc014.webp"
   },
   {
     "id": "sc015",
@@ -376,14 +404,16 @@
     "batch_id": "batch-02",
     "tile": 6,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc015.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "8688c4686a6fb0d8e535f60496c3ffd97266ea857b22cf08391ebf20ed599fe4",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "1333beead0d268c721933ca1d9f0323603a6d52a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc015.webp"
   },
   {
     "id": "sc016",
@@ -400,14 +430,16 @@
     "batch_id": "batch-02",
     "tile": 7,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc016.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "8688c4686a6fb0d8e535f60496c3ffd97266ea857b22cf08391ebf20ed599fe4",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "1333beead0d268c721933ca1d9f0323603a6d52a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc016.webp"
   },
   {
     "id": "sc017",
@@ -426,14 +458,16 @@
     "batch_id": "batch-02",
     "tile": 8,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc017.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "8688c4686a6fb0d8e535f60496c3ffd97266ea857b22cf08391ebf20ed599fe4",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "1333beead0d268c721933ca1d9f0323603a6d52a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc017.webp"
   },
   {
     "id": "sc018",
@@ -452,14 +486,16 @@
     "batch_id": "batch-02",
     "tile": 9,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc018.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "8688c4686a6fb0d8e535f60496c3ffd97266ea857b22cf08391ebf20ed599fe4",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "1333beead0d268c721933ca1d9f0323603a6d52a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc018.webp"
   },
   {
     "id": "sc019",
@@ -478,14 +514,16 @@
     "batch_id": "batch-03",
     "tile": 1,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc019.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "bbeb2dd4136599aed02dfadb2ce0dbef20bd2f9e4ef68d8ee44c63160035f91b",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "d9f586f73bd8d1a646bffd292138c8ffff2f4279",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc019.webp"
   },
   {
     "id": "sc020",
@@ -502,14 +540,16 @@
     "batch_id": "batch-03",
     "tile": 2,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc020.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "bbeb2dd4136599aed02dfadb2ce0dbef20bd2f9e4ef68d8ee44c63160035f91b",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "d9f586f73bd8d1a646bffd292138c8ffff2f4279",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc020.webp"
   },
   {
     "id": "sc021",
@@ -526,14 +566,16 @@
     "batch_id": "batch-03",
     "tile": 3,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc021.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "bbeb2dd4136599aed02dfadb2ce0dbef20bd2f9e4ef68d8ee44c63160035f91b",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "d9f586f73bd8d1a646bffd292138c8ffff2f4279",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc021.webp"
   },
   {
     "id": "sc022",
@@ -550,14 +592,16 @@
     "batch_id": "batch-03",
     "tile": 4,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc022.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "bbeb2dd4136599aed02dfadb2ce0dbef20bd2f9e4ef68d8ee44c63160035f91b",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "d9f586f73bd8d1a646bffd292138c8ffff2f4279",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc022.webp"
   },
   {
     "id": "sc023",
@@ -576,14 +620,16 @@
     "batch_id": "batch-03",
     "tile": 5,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc023.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "bbeb2dd4136599aed02dfadb2ce0dbef20bd2f9e4ef68d8ee44c63160035f91b",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "d9f586f73bd8d1a646bffd292138c8ffff2f4279",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc023.webp"
   },
   {
     "id": "sc024",
@@ -602,14 +648,16 @@
     "batch_id": "batch-03",
     "tile": 6,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc024.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "bbeb2dd4136599aed02dfadb2ce0dbef20bd2f9e4ef68d8ee44c63160035f91b",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "d9f586f73bd8d1a646bffd292138c8ffff2f4279",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc024.webp"
   },
   {
     "id": "sc025",
@@ -626,14 +674,16 @@
     "batch_id": "batch-03",
     "tile": 7,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc025.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "bbeb2dd4136599aed02dfadb2ce0dbef20bd2f9e4ef68d8ee44c63160035f91b",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "d9f586f73bd8d1a646bffd292138c8ffff2f4279",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc025.webp"
   },
   {
     "id": "sc026",
@@ -652,14 +702,16 @@
     "batch_id": "batch-03",
     "tile": 8,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc026.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "bbeb2dd4136599aed02dfadb2ce0dbef20bd2f9e4ef68d8ee44c63160035f91b",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "d9f586f73bd8d1a646bffd292138c8ffff2f4279",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc026.webp"
   },
   {
     "id": "sc027",
@@ -678,14 +730,16 @@
     "batch_id": "batch-03",
     "tile": 9,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc027.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "bbeb2dd4136599aed02dfadb2ce0dbef20bd2f9e4ef68d8ee44c63160035f91b",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "d9f586f73bd8d1a646bffd292138c8ffff2f4279",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc027.webp"
   },
   {
     "id": "sc028",
@@ -704,14 +758,16 @@
     "batch_id": "batch-04",
     "tile": 1,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc028.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7cc8059c76c4940de5246774db7f462cd86686b10e0ad90ef0681ea21f9eda62",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a34ccaba6cc0b0ed526b0ca6f5124693c26d9fd3",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc028.webp"
   },
   {
     "id": "sc029",
@@ -730,14 +786,16 @@
     "batch_id": "batch-04",
     "tile": 2,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc029.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7cc8059c76c4940de5246774db7f462cd86686b10e0ad90ef0681ea21f9eda62",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a34ccaba6cc0b0ed526b0ca6f5124693c26d9fd3",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc029.webp"
   },
   {
     "id": "sc030",
@@ -756,14 +814,16 @@
     "batch_id": "batch-04",
     "tile": 3,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc030.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7cc8059c76c4940de5246774db7f462cd86686b10e0ad90ef0681ea21f9eda62",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a34ccaba6cc0b0ed526b0ca6f5124693c26d9fd3",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc030.webp"
   },
   {
     "id": "sc031",
@@ -782,14 +842,16 @@
     "batch_id": "batch-04",
     "tile": 4,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc031.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7cc8059c76c4940de5246774db7f462cd86686b10e0ad90ef0681ea21f9eda62",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a34ccaba6cc0b0ed526b0ca6f5124693c26d9fd3",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc031.webp"
   },
   {
     "id": "sc032",
@@ -808,14 +870,16 @@
     "batch_id": "batch-04",
     "tile": 5,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc032.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7cc8059c76c4940de5246774db7f462cd86686b10e0ad90ef0681ea21f9eda62",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a34ccaba6cc0b0ed526b0ca6f5124693c26d9fd3",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc032.webp"
   },
   {
     "id": "sc033",
@@ -834,14 +898,16 @@
     "batch_id": "batch-04",
     "tile": 6,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc033.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7cc8059c76c4940de5246774db7f462cd86686b10e0ad90ef0681ea21f9eda62",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a34ccaba6cc0b0ed526b0ca6f5124693c26d9fd3",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc033.webp"
   },
   {
     "id": "sc034",
@@ -860,14 +926,16 @@
     "batch_id": "batch-04",
     "tile": 7,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc034.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7cc8059c76c4940de5246774db7f462cd86686b10e0ad90ef0681ea21f9eda62",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a34ccaba6cc0b0ed526b0ca6f5124693c26d9fd3",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc034.webp"
   },
   {
     "id": "sc035",
@@ -886,14 +954,16 @@
     "batch_id": "batch-04",
     "tile": 8,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc035.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7cc8059c76c4940de5246774db7f462cd86686b10e0ad90ef0681ea21f9eda62",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a34ccaba6cc0b0ed526b0ca6f5124693c26d9fd3",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc035.webp"
   },
   {
     "id": "sc036",
@@ -912,14 +982,16 @@
     "batch_id": "batch-04",
     "tile": 9,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc036.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7cc8059c76c4940de5246774db7f462cd86686b10e0ad90ef0681ea21f9eda62",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "a34ccaba6cc0b0ed526b0ca6f5124693c26d9fd3",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc036.webp"
   },
   {
     "id": "sc037",
@@ -938,14 +1010,16 @@
     "batch_id": "batch-05",
     "tile": 1,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc037.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "3a601dea5570206f38bea8e46d6005040a778e254e1cdfdfa57da6fe4bb5856c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "2d452fc17e0219c5db2fe6382cd3b137745e788a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc037.webp"
   },
   {
     "id": "sc038",
@@ -964,14 +1038,16 @@
     "batch_id": "batch-05",
     "tile": 2,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc038.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "3a601dea5570206f38bea8e46d6005040a778e254e1cdfdfa57da6fe4bb5856c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "2d452fc17e0219c5db2fe6382cd3b137745e788a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc038.webp"
   },
   {
     "id": "sc039",
@@ -988,14 +1064,16 @@
     "batch_id": "batch-05",
     "tile": 3,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc039.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "3a601dea5570206f38bea8e46d6005040a778e254e1cdfdfa57da6fe4bb5856c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "2d452fc17e0219c5db2fe6382cd3b137745e788a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc039.webp"
   },
   {
     "id": "sc040",
@@ -1014,14 +1092,16 @@
     "batch_id": "batch-05",
     "tile": 4,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc040.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "3a601dea5570206f38bea8e46d6005040a778e254e1cdfdfa57da6fe4bb5856c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "2d452fc17e0219c5db2fe6382cd3b137745e788a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc040.webp"
   },
   {
     "id": "sc041",
@@ -1040,14 +1120,16 @@
     "batch_id": "batch-05",
     "tile": 5,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc041.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "3a601dea5570206f38bea8e46d6005040a778e254e1cdfdfa57da6fe4bb5856c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "2d452fc17e0219c5db2fe6382cd3b137745e788a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc041.webp"
   },
   {
     "id": "sc042",
@@ -1066,14 +1148,16 @@
     "batch_id": "batch-05",
     "tile": 6,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc042.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "3a601dea5570206f38bea8e46d6005040a778e254e1cdfdfa57da6fe4bb5856c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "2d452fc17e0219c5db2fe6382cd3b137745e788a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc042.webp"
   },
   {
     "id": "sc043",
@@ -1092,14 +1176,16 @@
     "batch_id": "batch-05",
     "tile": 7,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc043.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "3a601dea5570206f38bea8e46d6005040a778e254e1cdfdfa57da6fe4bb5856c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "2d452fc17e0219c5db2fe6382cd3b137745e788a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc043.webp"
   },
   {
     "id": "sc044",
@@ -1116,14 +1202,16 @@
     "batch_id": "batch-05",
     "tile": 8,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc044.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "3a601dea5570206f38bea8e46d6005040a778e254e1cdfdfa57da6fe4bb5856c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "2d452fc17e0219c5db2fe6382cd3b137745e788a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc044.webp"
   },
   {
     "id": "sc045",
@@ -1140,14 +1228,16 @@
     "batch_id": "batch-05",
     "tile": 9,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc045.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "3a601dea5570206f38bea8e46d6005040a778e254e1cdfdfa57da6fe4bb5856c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "2d452fc17e0219c5db2fe6382cd3b137745e788a",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc045.webp"
   },
   {
     "id": "sc046",
@@ -1167,14 +1257,16 @@
     "batch_id": "batch-06",
     "tile": 1,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc046.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "494e33835f4b073801cc0f02232f0d28e5a8202e26c8d4a72800ce69e2d3e4e0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "719d306ee65f0305f47a946bc67eeb411a104888",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc046.webp"
   },
   {
     "id": "sc047",
@@ -1194,14 +1286,16 @@
     "batch_id": "batch-06",
     "tile": 2,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc047.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "494e33835f4b073801cc0f02232f0d28e5a8202e26c8d4a72800ce69e2d3e4e0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "719d306ee65f0305f47a946bc67eeb411a104888",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc047.webp"
   },
   {
     "id": "sc048",
@@ -1221,14 +1315,16 @@
     "batch_id": "batch-06",
     "tile": 3,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc048.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "494e33835f4b073801cc0f02232f0d28e5a8202e26c8d4a72800ce69e2d3e4e0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "719d306ee65f0305f47a946bc67eeb411a104888",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc048.webp"
   },
   {
     "id": "sc049",
@@ -1248,14 +1344,16 @@
     "batch_id": "batch-06",
     "tile": 4,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc049.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "494e33835f4b073801cc0f02232f0d28e5a8202e26c8d4a72800ce69e2d3e4e0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "719d306ee65f0305f47a946bc67eeb411a104888",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc049.webp"
   },
   {
     "id": "sc050",
@@ -1274,14 +1372,16 @@
     "batch_id": "batch-06",
     "tile": 5,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc050.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "494e33835f4b073801cc0f02232f0d28e5a8202e26c8d4a72800ce69e2d3e4e0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "719d306ee65f0305f47a946bc67eeb411a104888",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc050.webp"
   },
   {
     "id": "sc051",
@@ -1301,14 +1401,16 @@
     "batch_id": "batch-06",
     "tile": 6,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc051.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "494e33835f4b073801cc0f02232f0d28e5a8202e26c8d4a72800ce69e2d3e4e0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "719d306ee65f0305f47a946bc67eeb411a104888",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc051.webp"
   },
   {
     "id": "sc052",
@@ -1327,14 +1429,16 @@
     "batch_id": "batch-06",
     "tile": 7,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc052.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "494e33835f4b073801cc0f02232f0d28e5a8202e26c8d4a72800ce69e2d3e4e0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "719d306ee65f0305f47a946bc67eeb411a104888",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc052.webp"
   },
   {
     "id": "sc053",
@@ -1354,14 +1458,16 @@
     "batch_id": "batch-06",
     "tile": 8,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc053.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "494e33835f4b073801cc0f02232f0d28e5a8202e26c8d4a72800ce69e2d3e4e0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "719d306ee65f0305f47a946bc67eeb411a104888",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc053.webp"
   },
   {
     "id": "sc054",
@@ -1381,14 +1487,16 @@
     "batch_id": "batch-06",
     "tile": 9,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc054.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "494e33835f4b073801cc0f02232f0d28e5a8202e26c8d4a72800ce69e2d3e4e0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "719d306ee65f0305f47a946bc67eeb411a104888",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc054.webp"
   },
   {
     "id": "sc055",
@@ -1405,14 +1513,16 @@
     "batch_id": "batch-07",
     "tile": 1,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc055.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "f4898b93a2b4b40d6eb397aebe9fa656b3b81d06549ea38e51a7e3952569ac10",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "ff6c9313b3d9f84d7c6d1dc9dc896d3213ea027b",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc055.webp"
   },
   {
     "id": "sc056",
@@ -1432,14 +1542,16 @@
     "batch_id": "batch-07",
     "tile": 2,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc056.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "f4898b93a2b4b40d6eb397aebe9fa656b3b81d06549ea38e51a7e3952569ac10",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "ff6c9313b3d9f84d7c6d1dc9dc896d3213ea027b",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc056.webp"
   },
   {
     "id": "sc057",
@@ -1459,14 +1571,16 @@
     "batch_id": "batch-07",
     "tile": 3,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc057.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "f4898b93a2b4b40d6eb397aebe9fa656b3b81d06549ea38e51a7e3952569ac10",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "ff6c9313b3d9f84d7c6d1dc9dc896d3213ea027b",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc057.webp"
   },
   {
     "id": "sc058",
@@ -1485,14 +1599,16 @@
     "batch_id": "batch-07",
     "tile": 4,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc058.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "f4898b93a2b4b40d6eb397aebe9fa656b3b81d06549ea38e51a7e3952569ac10",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "ff6c9313b3d9f84d7c6d1dc9dc896d3213ea027b",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc058.webp"
   },
   {
     "id": "sc059",
@@ -1512,14 +1628,16 @@
     "batch_id": "batch-07",
     "tile": 5,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc059.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "f4898b93a2b4b40d6eb397aebe9fa656b3b81d06549ea38e51a7e3952569ac10",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "ff6c9313b3d9f84d7c6d1dc9dc896d3213ea027b",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc059.webp"
   },
   {
     "id": "sc060",
@@ -1538,14 +1656,16 @@
     "batch_id": "batch-07",
     "tile": 6,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc060.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "f4898b93a2b4b40d6eb397aebe9fa656b3b81d06549ea38e51a7e3952569ac10",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "ff6c9313b3d9f84d7c6d1dc9dc896d3213ea027b",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc060.webp"
   },
   {
     "id": "sc061",
@@ -1564,14 +1684,16 @@
     "batch_id": "batch-07",
     "tile": 7,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc061.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "f4898b93a2b4b40d6eb397aebe9fa656b3b81d06549ea38e51a7e3952569ac10",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "ff6c9313b3d9f84d7c6d1dc9dc896d3213ea027b",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc061.webp"
   },
   {
     "id": "sc062",
@@ -1590,14 +1712,16 @@
     "batch_id": "batch-07",
     "tile": 8,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc062.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "f4898b93a2b4b40d6eb397aebe9fa656b3b81d06549ea38e51a7e3952569ac10",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "ff6c9313b3d9f84d7c6d1dc9dc896d3213ea027b",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc062.webp"
   },
   {
     "id": "sc063",
@@ -1617,14 +1741,16 @@
     "batch_id": "batch-07",
     "tile": 9,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc063.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "f4898b93a2b4b40d6eb397aebe9fa656b3b81d06549ea38e51a7e3952569ac10",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "ff6c9313b3d9f84d7c6d1dc9dc896d3213ea027b",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc063.webp"
   },
   {
     "id": "sc064",
@@ -1644,14 +1770,16 @@
     "batch_id": "batch-08",
     "tile": 1,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc064.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7339b20d541c56a0738ba8eca0715ce8d2c556c3aa1beb46b771c7592061c12f",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "f61d0aa1335b092ea8ceecbd3ea4d03e95c91bca",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc064.webp"
   },
   {
     "id": "sc065",
@@ -1671,14 +1799,16 @@
     "batch_id": "batch-08",
     "tile": 2,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc065.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7339b20d541c56a0738ba8eca0715ce8d2c556c3aa1beb46b771c7592061c12f",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "f61d0aa1335b092ea8ceecbd3ea4d03e95c91bca",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc065.webp"
   },
   {
     "id": "sc066",
@@ -1698,14 +1828,16 @@
     "batch_id": "batch-08",
     "tile": 3,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc066.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7339b20d541c56a0738ba8eca0715ce8d2c556c3aa1beb46b771c7592061c12f",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "f61d0aa1335b092ea8ceecbd3ea4d03e95c91bca",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc066.webp"
   },
   {
     "id": "sc067",
@@ -1725,14 +1857,16 @@
     "batch_id": "batch-08",
     "tile": 4,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc067.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7339b20d541c56a0738ba8eca0715ce8d2c556c3aa1beb46b771c7592061c12f",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "f61d0aa1335b092ea8ceecbd3ea4d03e95c91bca",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc067.webp"
   },
   {
     "id": "sc068",
@@ -1752,14 +1886,16 @@
     "batch_id": "batch-08",
     "tile": 5,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc068.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7339b20d541c56a0738ba8eca0715ce8d2c556c3aa1beb46b771c7592061c12f",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "f61d0aa1335b092ea8ceecbd3ea4d03e95c91bca",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc068.webp"
   },
   {
     "id": "sc069",
@@ -1776,14 +1912,16 @@
     "batch_id": "batch-08",
     "tile": 6,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc069.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7339b20d541c56a0738ba8eca0715ce8d2c556c3aa1beb46b771c7592061c12f",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "f61d0aa1335b092ea8ceecbd3ea4d03e95c91bca",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc069.webp"
   },
   {
     "id": "sc070",
@@ -1803,14 +1941,16 @@
     "batch_id": "batch-08",
     "tile": 7,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc070.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7339b20d541c56a0738ba8eca0715ce8d2c556c3aa1beb46b771c7592061c12f",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "f61d0aa1335b092ea8ceecbd3ea4d03e95c91bca",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc070.webp"
   },
   {
     "id": "sc071",
@@ -1830,14 +1970,16 @@
     "batch_id": "batch-08",
     "tile": 8,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc071.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7339b20d541c56a0738ba8eca0715ce8d2c556c3aa1beb46b771c7592061c12f",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "f61d0aa1335b092ea8ceecbd3ea4d03e95c91bca",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc071.webp"
   },
   {
     "id": "sc072",
@@ -1857,14 +1999,16 @@
     "batch_id": "batch-08",
     "tile": 9,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc072.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "7339b20d541c56a0738ba8eca0715ce8d2c556c3aa1beb46b771c7592061c12f",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "f61d0aa1335b092ea8ceecbd3ea4d03e95c91bca",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc072.webp"
   },
   {
     "id": "sc073",
@@ -1884,14 +2028,16 @@
     "batch_id": "batch-09",
     "tile": 1,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc073.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "40b8a4a68828c9cf3e6e56094e567e63ab0112b266e1c57b5b09c8d42502ce3e",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "7e4a9ae673bc1e428abfa92ee2d6823af4148efd",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc073.webp"
   },
   {
     "id": "sc074",
@@ -1910,14 +2056,16 @@
     "batch_id": "batch-09",
     "tile": 2,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc074.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "40b8a4a68828c9cf3e6e56094e567e63ab0112b266e1c57b5b09c8d42502ce3e",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "7e4a9ae673bc1e428abfa92ee2d6823af4148efd",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc074.webp"
   },
   {
     "id": "sc075",
@@ -1937,14 +2085,16 @@
     "batch_id": "batch-09",
     "tile": 3,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc075.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "40b8a4a68828c9cf3e6e56094e567e63ab0112b266e1c57b5b09c8d42502ce3e",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "7e4a9ae673bc1e428abfa92ee2d6823af4148efd",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc075.webp"
   },
   {
     "id": "sc076",
@@ -1964,14 +2114,16 @@
     "batch_id": "batch-09",
     "tile": 4,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc076.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "40b8a4a68828c9cf3e6e56094e567e63ab0112b266e1c57b5b09c8d42502ce3e",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "7e4a9ae673bc1e428abfa92ee2d6823af4148efd",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc076.webp"
   },
   {
     "id": "sc077",
@@ -1990,14 +2142,16 @@
     "batch_id": "batch-09",
     "tile": 5,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc077.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "40b8a4a68828c9cf3e6e56094e567e63ab0112b266e1c57b5b09c8d42502ce3e",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "7e4a9ae673bc1e428abfa92ee2d6823af4148efd",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc077.webp"
   },
   {
     "id": "sc078",
@@ -2016,14 +2170,16 @@
     "batch_id": "batch-09",
     "tile": 6,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc078.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "40b8a4a68828c9cf3e6e56094e567e63ab0112b266e1c57b5b09c8d42502ce3e",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "7e4a9ae673bc1e428abfa92ee2d6823af4148efd",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc078.webp"
   },
   {
     "id": "sc079",
@@ -2042,14 +2198,16 @@
     "batch_id": "batch-09",
     "tile": 7,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc079.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "40b8a4a68828c9cf3e6e56094e567e63ab0112b266e1c57b5b09c8d42502ce3e",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "7e4a9ae673bc1e428abfa92ee2d6823af4148efd",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc079.webp"
   },
   {
     "id": "sc080",
@@ -2069,14 +2227,16 @@
     "batch_id": "batch-09",
     "tile": 8,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc080.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "40b8a4a68828c9cf3e6e56094e567e63ab0112b266e1c57b5b09c8d42502ce3e",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "7e4a9ae673bc1e428abfa92ee2d6823af4148efd",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc080.webp"
   },
   {
     "id": "sc081",
@@ -2096,13 +2256,15 @@
     "batch_id": "batch-09",
     "tile": 9,
     "grid": "3x3",
-    "status": "integrated",
+    "status": "published",
     "web_asset_path": "assets/sc081.webp",
     "width": 412,
     "height": 412,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "40b8a4a68828c9cf3e6e56094e567e63ab0112b266e1c57b5b09c8d42502ce3e",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "published_commit": "7e4a9ae673bc1e428abfa92ee2d6823af4148efd",
+    "published_url": "https://kingspledu.github.io/kuiro-episode-01/assets/sc081.webp"
   }
 ]
